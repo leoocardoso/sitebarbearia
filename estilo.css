@@ -1,6 +1,7 @@
 body {
     margin: -8px 20px;
     background-image: linear-gradient(to right, white, rgb(107, 107, 107));
+    align-items: center; 
 }
 
 img {
@@ -53,7 +54,7 @@ span {
 }
 
 a {
-    margin: 800px;
+    margin: 710px;
     font-size: 16px;
     font-family: Arial;
     font-weight: bold;
@@ -61,10 +62,5 @@ a {
     text-decoration: none;
     padding: 10px 10px;
     border-radius: 25px;
-    background-color: #25D366;    
-}
-
-iframe {
-    margin: auto;
-    display: block;
+    background-color: #25D366;   
 }
